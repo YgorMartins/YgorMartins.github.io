@@ -1,2 +1,2 @@
-# MathSymbols
-Simple page that makes adding and customizing unicode math symbols easier.
+# YgorMartins' Web Page
+Simple set of pages that make daily tasks easier, like adding and customizing unicode math symbols.
